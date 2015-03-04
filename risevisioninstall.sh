@@ -40,7 +40,7 @@ PROX=`cat $PROX_PATH_CONF | grep http::proxy | cut -d '/' -f 3` # FINISH
 # About me (&mY|*3/V15)
 echo "" 
 echo -e "$VERT" " ------------------ ""$ROUGE"" Rise Vision Linux Installer ""$VERT"" ---------- " "$NORMAL" 
-echo -e " | Linux 14.04 - 32bits			     	             | "
+echo -e " | V0.5 Linux 14.04 - 32bits			     	     | "
 echo -e " | Written by""$VERT" "Florian Vannier" "$CYAN""(vannier.florian@orange.fr) " "$NORMAL" " | " 
 echo -e " | This script is""$BLEU"" free Licence""$NORMAL""                               | "
 echo -e "$VERT" " ------------------------------------------------------------ " "$NORMAL" 
